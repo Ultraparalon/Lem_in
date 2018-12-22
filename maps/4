@@ -1,0 +1,21 @@
+100
+##start
+start 0 0 0
+legg -2 0 0
+regg 2 0 0
+lhead -1 9 0
+lh1 -1 7 0
+lh2 -1 5 0
+lh3 -1 3 0
+rhead 1 9 0
+##end
+end 0 10 0
+start-end
+start-legg
+start-regg
+start-lhead
+lhead-lh1
+lh1-lh2
+lh2-lh3
+lh3-end
+start-rhead

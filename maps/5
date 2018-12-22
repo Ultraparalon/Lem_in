@@ -1,0 +1,28 @@
+50
+##start
+1 1 1
+chebureck 0 2 2
+3 2 -2 3
+4 4 2
+kek 1 3 -2
+6 5 3
+7 5 4
+ololo 2 4
+##########
+##end
+9 1 4
+10 3 7 3
+11 4 8
+1-4
+chebureck-9
+3-kek
+kek-9
+4-6
+6-7
+7-ololo
+ololo-9
+1-9
+1-10
+10-11
+1-3
+1-chebureck
